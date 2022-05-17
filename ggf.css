@@ -1,0 +1,153 @@
+                                         * {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Jua', sans-serif;
+    user-select: none;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background: linear-gradient(125deg,#a17fe0,#5D26C1);
+}
+
+div {
+    /*border: 1px solid blue*/
+
+}
+
+section {
+    text-align: center;
+    /*border: 1px solid blue;*/
+    margin-top: 100px;
+}
+
+img {
+    width: 300px;
+    height: 100px;
+}
+
+.img-2 {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+.cl2 {
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 280px;
+    padding: 50px 0;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 40px;
+}
+
+.dl50 {
+    color: white;
+}
+
+.dl500 {
+    display: inline-block;
+    background-color: skyblue;
+    width: 200px;
+    height: 35px;
+    border: none;
+    outline: none;
+    text-decoration: none;
+    color: black;
+    padding-top: 7px;
+    margin-bottom: 5px;
+}
+
+.dl5000 {
+    width: 200px;
+    height: 35px;
+    border: none;
+    outline: none;
+}
+
+.rt5 {
+    margin-top: 20px;
+    color: white;
+}
+
+.rt4 {
+    font-size: 50px;
+    margin-top: 20px;
+    color: white;
+}
+
+.rt7 {
+    margin-top: 20px;
+    color: white;
+}
+
+.rt9 {
+    margin-top: 20px;
+    color: white;
+}
+
+.cl2 > :nth-child(1) {
+    margin-bottom: 20px;
+}
+
+.cl2 > div > input {
+    margin-bottom: 5px;
+}
+
+.fa-apple-alt {
+    color: red;
+    font-size: 30px;
+}
+.fa-candy-cane {
+    color: rgb(0, 255, 0);
+    font-size: 30px;
+}
+.fa-battery-full {
+    color: crimson;
+    font-size: 30px;
+}
+.fa-bomb {
+    color: wheat;
+    font-size: 30px;
+}
+.fa-box-open {
+    color: gold;
+    font-size: 30px;
+}
+.fa-cat {
+    color: goldenrod;
+    font-size: 30px;
+}
+.fa-cannabis {
+    color: cyan;
+    font-size: 30px;
+}
+.fa-bolt {
+    color: yellowgreen;
+    font-size: 30px;
+}
+
+.fas {
+    margin-top: 30px;
+}
+
+
+.chool1 {
+    font-size: 30px;
+    position: absolute;
+    background-color: #fc5000;
+    margin-left: 20px;
+    width: 180px;
+    
+}
+
+.dlab1 {
+    text-align: right;
+    color: white;
+    text-decoration: none;
+}
